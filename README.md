@@ -1,7 +1,5 @@
 # newprojects
 import java.io.*;
-void change()
+public static void main(String args[])
 {
-
-
 }
