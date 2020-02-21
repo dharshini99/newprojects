@@ -6,3 +6,5 @@ String array;
 Scanner scan = new Scanner(System.in);
 System.out.println();
 }
+public void newData(){
+}
